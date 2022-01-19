@@ -1,7 +1,7 @@
 import pandas as pd
 import tkinter as tk
 
-encryptionkey = pd.read_csv(r"C:\Users\purba\PycharmProjects\Symmetric_encryptor\decodekeynew\decodekeynew.csv",
+encryptionkey = pd.read_csv(r"decodekeynew.csv",
                             sep=',', names=['Character', 'Byte'], header=None, skiprows=[0])
 
 df = pd.DataFrame(data=encryptionkey)
