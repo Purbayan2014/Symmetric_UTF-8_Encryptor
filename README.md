@@ -29,6 +29,8 @@ The Symmetric key algorithm that has been implemented here is the DES encryption
 
 `cd Symmetric_UTF-8_Encryptor`
 
+`.\Encrypt-Decrypt`
+
 # Usage 
 
 There is already a precompilled version but if you want to compile it using yourself then you are most welcome too.
